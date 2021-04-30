@@ -4,3 +4,5 @@
 
 // Package secfilecheck contains utilities for macOS.
 package secfilecheck
+
+// check for data after image
