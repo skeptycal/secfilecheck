@@ -1,0 +1,5 @@
+package secfilecheck // import "github.com/skeptycal/_small_repos/secfilecheck"
+
+Package secfilecheck contains utilities for macOS.
+
+func Example()
