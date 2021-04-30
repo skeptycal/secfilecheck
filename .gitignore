@@ -1,3 +1,4 @@
+############################################
 # Copyright (c) 2021 Michael Treanor
 # https://github.com/skeptycal
 # MIT License
@@ -8,11 +9,10 @@
 **/*temp
 **/*tmp
 **/.waka*
-**/idea.md
-
 
 ### Repo Specific ###
-
+**/idea.md
+**/coverage.txt
 
 ### Security ###
 **/*[Tt]oken*
@@ -20,6 +20,14 @@
 **/*[Ss]ecret*
 *history*
 *hst*
+
+### Security ###
+**/*[Tt]oken*
+**/*[Pp]rivate*
+**/*[Ss]ecret*
+*history*
+*hst*
+**/*~
 
 ############################################
 
